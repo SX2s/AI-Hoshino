@@ -1,0 +1,2 @@
+# AI-Hoshino
+Moderation bot
