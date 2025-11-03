@@ -9,7 +9,7 @@ import asyncio
 # -------------------------------
 
 PREFIX = "!"
-TOKEN = "MTQyMjAxMDg1NzA0MjQ4MTI4Mg.Gbc7J5.qRUDqeVMYfxmtR_VdLfVRAoYThDI-_2ecVJuug"
+TOKEN = "your bot token"
 intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
@@ -60,3 +60,4 @@ async def main():
 # -------------------------------
 
 asyncio.run(main())
+
